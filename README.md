@@ -4,7 +4,7 @@
     <p align="left">
     <a href="https://t.me/sampiiiiu" target="blank"><img align="center" src="https://www.pinclipart.com/picdir/middle/374-3744565_telegram-logo-clipart.png" alt="dasun_pamod" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://www.facebook.com/sedang.aktif.52459" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
-    <a href="https://github.com/ADITYAH2" target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
+    <a href="https://github.com/geogabut" target="blank"><img align="center" src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="Dasun Pamod" height="40" width="40" /></a> &nbsp;&nbsp;
     <a href="https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=paoandest@gmail.com" target="blank">
         <img align="center" src="https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gmail.max-1100x1100.png" alt="Dasun Pamod" height="40" width="40" />
     </a>
