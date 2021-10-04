@@ -45,8 +45,11 @@ sysctl -w net.ipv6.conf.all.disable_ipv6=1 && sysctl -w net.ipv6.conf.default.di
 - [x] V2RAY Vless None TLS    
 - [x] Trojan
 
+## _TAMPANK DEPAN_
+![IMG_20211004_195057](https://user-images.githubusercontent.com/76270969/135847081-22c7d870-d3f4-424b-ba4a-6538d6d50af7.jpg)
+
 ## _SYSTEM MENU_
-![IMG_20210927_115333](https://user-images.githubusercontent.com/87260224/134843636-31e3e0a7-4f74-48d2-8ff7-e749c2da6491.jpg)
+![IMG_20211004_194903](https://user-images.githubusercontent.com/76270969/135847363-3b437211-01f5-43a8-b4f1-a5e2c0b44f80.jpg)
 
 ### _SYSTEM STATUS RUNNING_
 ![IMG_20210928_102919](https://user-images.githubusercontent.com/87260224/135021262-c2bdd311-d543-46f0-8d2d-09e0dc3ae21e.jpg)
